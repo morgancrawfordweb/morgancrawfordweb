@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Morgan Crawford</h1>
 <h3 align="center">I am a geologist turned software engineer in San Diego!</h3>
 
+<p>I didn't have much of my extended family around while growing up. I only saw them on special occasions if I was lucky. My uncle Jerry was a science teach and absolutely passionate about geology. Ever since then my curiosity peaked and I was off to the races to learn about science and technology!</p>
+
+<p>I enrolled in the University of New Orleans and began studying the science with the expectation I was going to land a position in the oil and gas industry. During my studies the industry was booming and was looking for exploration geologists. I thought that it was perfect, unfortunately the timing couldn't have been worse. The minimum requirements that the industry started to look for became harder and harder. My friends with doctorates were being laid off from their internships, and the job market shrank.</p>
+
+<p>I had moved across the country in search for new opportunities and found myself in another industry within the field.  While the work is interesting, I really dont get the opportunity to build and explore my creativity. I love working in groups and elevating my peers, and I see myself doing that in the tech industry!</p>
+
 - 🔭 I’m currently working on **building full-stack web applications**
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **my transition into the industry or any cool rocks you have!**
+- 💬 Ask me about any cool rocks you have!**
 
 - 📫 How to reach me **macrawfo94@gmail.com**
 
