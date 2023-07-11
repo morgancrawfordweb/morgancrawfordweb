@@ -3,7 +3,7 @@
 
 <p>I didn't have much of my extended family around while growing up. I only saw them on special occasions if I was lucky. My uncle Jerry was a science teach and absolutely passionate about geology. Ever since then my curiosity peaked and I was off to the races to learn about science and technology!</p>
 
-<p>I enrolled in the University of New Orleans and began studying the science with the expectation I was going to land a position in the oil and gas industry. During my studies the industry was booming and was looking for exploration geologists. I thought that it was perfect, unfortunately the timing couldn't have been worse. The minimum requirements that the industry started to look for became harder and harder. My friends with doctorates were being laid off from their internships, and the job market shrank.</p>
+<p>I enrolled in the University of New Orleans and began studying the science with the expectation I was going to land a position in the oil and gas industry. During my studies the industry was booming and was looking for exploration geologists. I thought that it was perfect, unfortunately the timing couldn't have been worse. The minimum requirements that the industry started to look for became harder and harder. My friends with doctorates were being laid off from their internships, the job market shrank and I found myself in an oil bust economy.</p>
 
 <p>I had moved across the country in search for new opportunities and found myself in another industry within the field.  While the work is interesting, I really dont get the opportunity to build and explore my creativity. I love working in groups and elevating my peers, and I see myself doing that in the tech industry!</p>
 
