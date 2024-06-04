@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Morgan Crawford</h1>
-<h3 align="center">I am a geologist turned software engineer in San Diego!</h3>
+<h3 align="center">I am a geologist turned software engineer in Norfolk!</h3>
 
 <p>I didn't have much of my extended family around while growing up. I only saw them on special occasions if I was lucky. My uncle Jerry was a science teach and absolutely passionate about geology. Ever since then my curiosity peaked and I was off to the races to learn about science and technology!</p>
 
